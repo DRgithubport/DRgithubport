@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux Permissions Lab</b>
-  - [Practicing permissions in Linux](https://github.com/DRgithubport/File-permissions-Linux-Lab/edit/main/README.md)
+  - [Practicing permissions in Linux](https://github.com/DRgithubport/File-permissions-Linux-Lab#)
 
 
 <h2>Certifications:</h2>
