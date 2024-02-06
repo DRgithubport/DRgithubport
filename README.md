@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux Permissions Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing permissions in Linux](https://github.com/DRgithubport/File-permissions-Linux-Lab/edit/main/README.md)
 
 
 <h2>Certifications:</h2>
