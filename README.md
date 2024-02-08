@@ -5,6 +5,8 @@
 - <b>Linux Permissions Lab</b>
   - [Practicing permissions in Linux](https://github.com/DRgithubport/File-permissions-Linux-Lab#)
 
+- <b>SQL Filters Lab</b>
+  - [Applying Filters to SQL Queries]
 
 <h2>Certifications:</h2>
 
