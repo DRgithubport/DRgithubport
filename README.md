@@ -13,7 +13,7 @@
 <b>[IS-100.c: Introduction to the Incident Command System](IS-100.C_certificate.pdf)<b/>
 <h2> 🤳 Connect with me:</h2>
 
-
+IS-100.C_certificate.pdf
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
