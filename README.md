@@ -6,7 +6,7 @@
   - [Practicing permissions in Linux](https://github.com/DRgithubport/File-permissions-Linux-Lab#)
 
 - <b>SQL Filters Lab</b>
-  - [Applying Filters to SQL Queries]
+  - [Applying Filters to SQL Queries](https://github.com/DRgithubport/Applying-Filters-to-SQL-queries)
 
 <h2>Certifications:</h2>
 
