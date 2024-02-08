@@ -7,7 +7,7 @@
 
 
 <h2>Certifications:</h2>
-<br><b/>
+<b><b/>
 
 
 <b>[IS-100.c: Introduction to the Incident Command System](IS-100.C_certificate.pdf)<b/>
