@@ -8,6 +8,8 @@
 
 <h2>Certifications:</h2>
 <b>Google Cybersecurity</b>
+
+<b>IS-100.c: Introduction to the Incident Command System<b/>
 <h2> 🤳 Connect with me:</h2>
 
 
