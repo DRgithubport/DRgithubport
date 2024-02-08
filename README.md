@@ -8,7 +8,7 @@
 
 <h2>Certifications:</h2>
 <br><b/>
-[Google CyberSecurity Certification](https://github.com/DRgithubport/DRgithubport/blob/9b59ce9e6422854c5cd883a0b94060dbba7e06a6/google%20cyber%20cert.pdf)
+[Google CyberSecurity Certification](google cyber cert.pdf)
 
 
 <b>[IS-100.c: Introduction to the Incident Command System](IS-100.C_certificate.pdf)<b/>
